@@ -1,4 +1,6 @@
-# lmu-cmsi282-spring2020-homework5
+# Calendar Satisfaction Problem Solver
+
 Scheduling without tears!
 
 **PARKER BATH**
+
